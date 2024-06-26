@@ -1,4 +1,3 @@
-
 ---
 title: OpenAI 为什么我们不被允许有gap year？
 pubDate: 2023-03-05
