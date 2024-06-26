@@ -1,12 +1,12 @@
 export const THEME_CONFIG: App.Locals['config'] = {
   /** blog title */
-  title: "活版印字",
+  title: "姚姚创世纪",
   /** your name */
-  author: "Typography",
+  author: "姚姚创世纪",
   /** website description */
   desc: "Rediscory the beauty of typography",
   /** your deployed domain */
-  website: "https://astro-theme-typography.vercel.app/",
+  website: "https://chan.yaoyaocsj.com/",
   /** your locale */
   locale: "en-us",
   /** theme style */
@@ -15,7 +15,7 @@ export const THEME_CONFIG: App.Locals['config'] = {
   socials: [
     {
       name: "github",
-      href: "https://github.com/moeyua/astro-theme-typography",
+      href: "https://github.com/thefreelight",
     },
     {
       name: "rss",
@@ -23,12 +23,8 @@ export const THEME_CONFIG: App.Locals['config'] = {
     },
     {
       name: "twitter",
-      href: "https://github.com/moeyua/astro-theme-typography",
+      href: "https://x.com/yaoyaocsj",
     },
-    {
-      name: "mastodon",
-      href: "https://github.com/moeyua/astro-theme-typography",
-    }
   ],
   /** your header info */
   header: {
@@ -37,19 +33,19 @@ export const THEME_CONFIG: App.Locals['config'] = {
   /** your navigation links */
   navs: [
     {
-      name: "Posts",
+      name: "文章",
       href: "/posts/page/1",
     },
     {
-      name: "Archive",
+      name: "归档",
       href: "/archive",
     },
     {
-      name: "Categories",
+      name: "分类",
       href: "/categories"
     },
     {
-      name: "About",
+      name: "关于",
       href: "/about",
     },
   ],
