@@ -1,5 +1,5 @@
 ---
-title: OpenAI 为什么我们不被允许有gap year？
+title: 为什么我们不被允许有gap year？
 pubDate: 2023-03-05
 categories: ['以我为准']
 description: ''
